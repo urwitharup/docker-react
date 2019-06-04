@@ -19,5 +19,3 @@ script:
     access_key_id: "$AWS_ACCESS_ID"
     secret_access_key:
       secure: "$AWS_ACCESS_KEY"
-
-
